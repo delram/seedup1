@@ -219,6 +219,7 @@ function create_config( )
     "download_media",
     "invite",
     "all",
+    "plugins",
     "leave_ban"
     },
     sudo_users = {94477327,144976651,173666523,140503292,170774776},--Sudo users
